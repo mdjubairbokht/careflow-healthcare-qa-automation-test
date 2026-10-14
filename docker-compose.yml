@@ -1,0 +1,11 @@
+services:
+  careflow:
+    build: .
+    ports:
+      - "8000:8000"
+    environment:
+      DEMO_DB: /data/careflow.db
+    volumes:
+      - careflow-data:/data
+volumes:
+  careflow-data:
