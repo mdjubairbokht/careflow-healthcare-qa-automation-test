@@ -9,6 +9,7 @@ test-results/
 playwright-report/
 .DS_Store
 
+
 # Python
 .venv/
 venv/
@@ -16,14 +17,17 @@ __pycache__/
 *.pyc
 .pytest_cache/
 
+
 # VS Code
 .vscode/
+
 
 # Test reports
 playwright-report/
 test-results/
 reports/
 report.html
+
 
 # Database files
 *.db
