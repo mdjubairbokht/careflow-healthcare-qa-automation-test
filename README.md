@@ -2,14 +2,14 @@
 
 [![QA Automation](https://github.com/OWNER/REPO/actions/workflows/qa-tests.yml/badge.svg)](https://github.com/OWNER/REPO/actions/workflows/qa-tests.yml)
 
-**A runnable full-stack QA portfolio project:** FastAPI + SQLite healthcare scheduling app, REST API regression suite with Pytest, Playwright browser E2E tests, Docker, and GitHub Actions. Built to demonstrate software QA engineering skills to recruiters and faculty. **Synthetic data only; not Epic software.**
+**A test full-stack QA portfolio project:** FastAPI + SQLite healthcare scheduling app, REST API regression suite with Pytest, Playwright browser E2E tests, Docker, and GitHub Actions. Built to demonstrate software QA engineering skills to recruiters and faculty. **Synthetic data only; not Epic software.**
 
 ## Screens and product behavior
 
 - Register a fictional patient, search patients, and view patient history via REST API.
 - Schedule, reschedule, and cancel appointments with lifecycle business rules.
 - View live patient and appointment counts in the browser.
-- Explore automatically generated API documentation at `/docs`.
+- Explore automatically generated API documentation
 - Review tests for invalid inputs, missing resources, SQL injection-like input, state transitions, and persistence.
 
 ## Quick start
