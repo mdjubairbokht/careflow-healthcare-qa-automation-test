@@ -5,7 +5,7 @@
 **A test full-stack QA portfolio project:** FastAPI + SQLite healthcare scheduling app, REST API regression suite with Pytest, Playwright browser E2E tests, Docker, and GitHub Actions. Built to demonstrate software QA engineering skills to recruiters and faculty. **Synthetic data only; not Epic software.**
 
 ## Screens and product behavior
-
+ 
 - Register a fictional patient, search patients, and view patient history via REST API.
 - Schedule, reschedule, and cancel appointments with lifecycle business rules.
 - View live patient and appointment counts in the browser.
@@ -13,9 +13,9 @@
 - Review tests for invalid inputs, missing resources, SQL injection-like input, state transitions, and persistence.
 
 ## Quick start
-
+ 
 Requires **Python 3.11+**.
-
+ 
 ```bash
 python -m venv .venv
 # macOS/Linux: source .venv/bin/activate
