@@ -10,6 +10,7 @@ playwright-report/
 .DS_Store
 
 
+
 # Python
 .venv/
 venv/
@@ -22,6 +23,7 @@ __pycache__/
 .vscode/
 
 
+
 # Test reports
 playwright-report/
 test-results/
@@ -29,16 +31,22 @@ reports/
 report.html
 
 
+
 # Database files
 *.db
 *.sqlite
 *.sqlite3
+
+
 
 # Secrets
 .env
 .env.*
 !.env.example
 
+
 # Operating system
+
+
 .DS_Store
 Thumbs.db
