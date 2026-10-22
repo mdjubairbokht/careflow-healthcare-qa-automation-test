@@ -1,6 +1,6 @@
 # CareFlow QA | Healthcare Scheduling Test Automation
 
-[![QA Automation](https://github.com/OWNER/REPO/actions/workflows/qa-tests.yml/badge.svg)](https://github.com/OWNER/REPO/actions/workflows/qa-tests.yml)
+[[QA Automation] (https://github.com/OWNER/REPO/actions/workflows/qa-tests.yml/badge.svg)](https://github.com/OWNER/REPO/actions/workflows/qa-tests.yml)
 
 **A test full-stack QA portfolio project:** FastAPI + SQLite healthcare scheduling app, REST API regression suite with Pytest, Playwright browser E2E tests, Docker, and GitHub Actions. Built to demonstrate software QA engineering skills to recruiters and faculty. **Synthetic data only; not Epic software.**
 
